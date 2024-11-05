@@ -34,3 +34,8 @@ while count > 0:
         print(intToStr[prev], end=" ")
         count -= 1
 print()
+
+
+
+# OUTPUT:
+# double one double one double two double two double three double three
